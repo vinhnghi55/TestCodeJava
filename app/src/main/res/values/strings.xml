@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestCodeJava</string>
+    <string name="hello">Xin chào Con Heo</string>
+    <string name="btntext">Click me</string>
+    <string name="btntext2">Click me 2</string>
+</resources>

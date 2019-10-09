@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rlsecond" type="id"></item>
+    <item name="imgView" type="id" />
+    <item name="textView" type="id" />
+    <item name="btnClick" type="id" />
+</resources>
